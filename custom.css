@@ -1,0 +1,33 @@
+
+.not h3 {
+    font-family: var(--ffPrimary);
+    font-size: 4rem;
+    font-weight: 400;
+    color: #74d8c2;
+    font-weight: 700;
+    padding: 6rem 0rem;
+    width: 45rem;
+}
+
+.not h5 {
+    font-family: var(--ffPrimary);
+    font-size: 2.4rem;
+    font-weight: 400;
+    color: #74d8c2;
+    font-weight: 700;
+}
+
+.not p {
+    font-family: var(--ffPrimary);
+    font-size: 1.6rem;
+    font-weight: 400;
+    color: #ffffff;
+}
+/* .not .card{
+    margin: 2rem;
+} */
+
+.not .container-fluid {
+    background-color: #1278ab;
+}
+
