@@ -1,4 +1,3 @@
-
 .not h3 {
     font-family: var(--ffPrimary);
     font-size: 4rem;
@@ -23,11 +22,7 @@
     font-weight: 400;
     color: #ffffff;
 }
-/* .not .card{
-    margin: 2rem;
-} */
-
-.not .container-fluid {
+.not {
     background-color: #1278ab;
 }
 
